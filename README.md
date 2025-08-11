@@ -33,6 +33,7 @@ Built with **React** for the front-end and **Flask** for the back-end.
 ---
 
 ## 📂 Project Structure
+```
 
 JavaCup/
 │
@@ -48,14 +49,14 @@ JavaCup/
 ├── Bot.py / # Flask API
 │
 └── README.md
-
+```
 ---
 
 ## Installation
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Java-Cup.git
+git clone https://github.com/ayaarbi/JavaCup.git
 ```
 
 ### 2️⃣ Backend Setup (Flask)
